@@ -1,0 +1,62 @@
+.bulb{width: 250px;float: left;border-radius: 100px;}
+
+body{background-color: lightcyan;}
+
+.dr{width: 210px;
+    float:right;
+    border-radius: 100px;
+    height: 250px;}
+
+    h1{padding-top: 10px;
+    text-align: center;
+    font-size: 30px;}
+
+    .vision{padding-top: 100px;
+    margin-left: 100px;}
+
+    .p{margin-left: 100px;
+    font-size: 25px;}
+
+    .Mission{margin-left: 90px;
+        margin-right: 90px;}
+
+     p{font-size: 20px;}
+
+     .di{margin-left: 80px;
+          margin-right: 80px;}
+   
+     .logo{margin-left: 450px;}
+
+     .one{width: 82px;
+    margin-left: -4px;
+    margin-top: 0%;
+    border-color: darkred;
+    border-width: 5px;
+    border:outset darkred;
+    border-radius: 90px 0px 90px 0;}
+
+.two{width: 100px;
+    margin-left: -4px;
+    margin-top: 0%;
+    border-color: darkred;
+    border-width: 5px;
+    border:outset darkred;
+    border-radius: 90px 0px 90px 0;}
+
+.there{width: 221px;
+    margin-left: -4px;
+    margin-top: 0%;
+    border-color: darkred;
+    border-width: 5px;
+    border:outset darkred;
+    border-radius: 90px 0px 90px 0;
+    ;}
+.p1{margin-left: 100px;
+    font-size: 37px;
+    color: darkred;
+    border-color: darkred;
+    border-width: 5px;
+    /* border:outset darkred; */
+    /* border-radius: 90px 0px 90px 0; */
+}
+    
